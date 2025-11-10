@@ -1,0 +1,213 @@
+{
+"employees": [
+	{
+		"id" : 1,
+		"first_name" : "Michael",
+		"last_name" : "Scott",
+		"hire_date" : "2003-03-01",
+		"department" : "Sales"
+	},
+	{
+		"id" : 2,
+		"first_name" : "Dwight",
+		"last_name" : "Schrute",
+		"hire_date" : "2004-02-16",
+		"department" : "Sales"
+	},
+	{
+		"id" : 3,
+		"first_name" : "Jim",
+		"last_name" : "Halpert",
+		"hire_date" : "2005-04-21",
+		"department" : "Sales"
+	},
+	{
+		"id" : 4,
+		"first_name" : "Pam",
+		"last_name" : "Beesly",
+		"hire_date" : "2005-05-12",
+		"department" : "Reception"
+	},
+	{
+		"id" : 5,
+		"first_name" : "Ryan",
+		"last_name" : "Howard",
+		"hire_date" : "2005-06-01",
+		"department" : "Sales"
+	},
+	{
+		"id" : 6,
+		"first_name" : "Angela",
+		"last_name" : "Martin",
+		"hire_date" : "2005-07-15",
+		"department" : "Accounting"
+	},
+	{
+		"id" : 7,
+		"first_name" : "Kevin",
+		"last_name" : "Malone",
+		"hire_date" : "2005-08-29",
+		"department" : "Accounting"
+	},
+	{
+		"id" : 8,
+		"first_name" : "Oscar",
+		"last_name" : "Martinez",
+		"hire_date" : "2005-09-10",
+		"department" : "Accounting"
+	},
+	{
+		"id" : 9,
+		"first_name" : "Phyllis",
+		"last_name" : "Vance",
+		"hire_date" : "2005-10-01",
+		"department" : "Sales"
+	},
+	{
+		"id" : 10,
+		"first_name" : "Stanley",
+		"last_name" : "Hudson",
+		"hire_date" : "2005-11-20",
+		"department" : "Sales"
+	},
+	{
+		"id" : 11,
+		"first_name" : "Toby",
+		"last_name" : "Flenderson",
+		"hire_date" : "2005-12-05",
+		"department" : "HR"
+	},
+	{
+		"id" : 12,
+		"first_name" : "Meredith",
+		"last_name" : "Palmer",
+		"hire_date" : "2005-01-22",
+		"department" : "Procurement"
+	},
+	{
+		"id" : 13,
+		"first_name" : "Creed",
+		"last_name" : "Bratton",
+		"hire_date" : "2005-04-18",
+		"department" : "Quality Assurance"
+	},
+	{
+		"id" : 14,
+		"first_name" : "Darryl",
+		"last_name" : "Philbin",
+		"hire_date" : "2005-06-30",
+		"department" : "Warehouse"
+	},
+	{
+		"id" : 15,
+		"first_name" : "Kelly",
+		"last_name" : "Kapoor",
+		"hire_date" : "2005-07-20",
+		"department" : "Customer Service"
+	},
+	{
+		"id" : 16,
+		"first_name" : "Jan",
+		"last_name" : "Levinson",
+		"hire_date" : "2003-08-15",
+		"department" : "Corporate"
+	},
+	{
+		"id" : 17,
+		"first_name" : "Erin",
+		"last_name" : "Hannon",
+		"hire_date" : "2008-11-10",
+		"department" : "Reception"
+	},
+	{
+		"id" : 18,
+		"first_name" : "Andy",
+		"last_name" : "Bernard",
+		"hire_date" : "2007-04-02",
+		"department" : "Sales"
+	},
+	{
+		"id" : 19,
+		"first_name" : "Robert",
+		"last_name" : "California",
+		"hire_date" : "2010-09-15",
+		"department" : "Corporate"
+	},
+	{
+		"id" : 20,
+		"first_name" : "Gabe",
+		"last_name" : "Lewis",
+		"hire_date" : "2010-01-10",
+		"department" : "Corporate"
+	},
+	{
+		"id" : 21,
+		"first_name" : "Holly",
+		"last_name" : "Flax",
+		"hire_date" : "2007-12-01",
+		"department" : "HR"
+	},
+	{
+		"id" : 22,
+		"first_name" : "Phyllis",
+		"last_name" : "Smith",
+		"hire_date" : "2005-10-10",
+		"department" : "Sales"
+	},
+	{
+		"id" : 23,
+		"first_name" : "Karen",
+		"last_name" : "Filippelli",
+		"hire_date" : "2006-02-21",
+		"department" : "Sales"
+	},
+	{
+		"id" : 24,
+		"first_name" : "Nellie",
+		"last_name" : "Bertram",
+		"hire_date" : "2012-05-16",
+		"department" : "Sales"
+	},
+	{
+		"id" : 25,
+		"first_name" : "Luke",
+		"last_name" : "Cooper",
+		"hire_date" : "2013-03-10",
+		"department" : "Sales"
+	},
+	{
+		"id" : 26,
+		"first_name" : "Rachael",
+		"last_name" : "Olsen",
+		"hire_date" : "2014-04-25",
+		"department" : "Marketing"
+	},
+	{
+		"id" : 27,
+		"first_name" : "Tom",
+		"last_name" : "Winston",
+		"hire_date" : "2015-06-30",
+		"department" : "Finance"
+	},
+	{
+		"id" : 28,
+		"first_name" : "Susan",
+		"last_name" : "Meyer",
+		"hire_date" : "2016-01-15",
+		"department" : "HR"
+	},
+	{
+		"id" : 29,
+		"first_name" : "Jason",
+		"last_name" : "White",
+		"hire_date" : "2017-07-19",
+		"department" : "IT"
+	},
+	{
+		"id" : 30,
+		"first_name" : "Chloe",
+		"last_name" : "Kim",
+		"hire_date" : "2018-08-28",
+		"department" : "Marketing"
+	}
+]}
